@@ -1,0 +1,8 @@
+{
+  "name": "dbnc",
+  "version": "1.0.0",
+  "description": "a very simple debounce function",
+  "main": "dbnc.js",
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense"
+}
